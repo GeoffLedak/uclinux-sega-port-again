@@ -1404,7 +1404,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating util/Makefile
 
@@ -1418,7 +1418,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating kernel/Makefile
 
@@ -1432,7 +1432,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating kernel/sys/Makefile
 
@@ -1446,7 +1446,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating clockstuff/Makefile
 
@@ -1460,7 +1460,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating adjtimed/Makefile
 
@@ -1474,7 +1474,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating parseutil/Makefile
 
@@ -1488,7 +1488,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating ntptrace/Makefile
 
@@ -1502,7 +1502,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating ntpq/Makefile
 
@@ -1516,7 +1516,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating ntpdc/Makefile
 
@@ -1530,7 +1530,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating ntpdate/Makefile
 
@@ -1544,7 +1544,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating ntpd/Makefile
 
@@ -1558,7 +1558,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating libparse/Makefile
 
@@ -1572,7 +1572,7 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating libntp/Makefile
 
@@ -1586,6 +1586,6 @@ This file was extended by config.status 2.52, executed with
   CONFIG_LINKS    = 
   CONFIG_COMMANDS = 
   > ./config.status 
-on C02SQ0KVH03Q
+on ubuntu-VirtualBox
 
 config.status:15340: creating librsaref/Makefile
